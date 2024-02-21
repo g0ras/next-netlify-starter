@@ -2,7 +2,7 @@ const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   e2e: {
-    baseUrl: 'https://next-jay-ess.netlify.app/',
+    baseUrl: 'http://localhost:8888/',
     supportFile: false,
   },
 });
