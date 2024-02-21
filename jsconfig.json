@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "./",
+    "baseUrl": "https://next-jay-ess.netlify.app/",
     "paths": {
       "@components/*": ["components/*"],
       "@styles/*": ["styles/*"]
